@@ -1,6 +1,6 @@
 # Programming 101
 
-Welcome to Programming 101, an introductory course designed to equip students with the foundational skills and knowledge required to kickstart their journey into the world of programming.
+An introductory course designed to equip students with the foundational skills and knowledge required to kickstart their journey into the world of programming.
 
 ## Course Overview
 In this course, we will cover essential concepts and practices that form the building blocks of programming. From understanding fundamental programming paradigms to hands-on coding exercises, students will gain a solid grasp of key programming principles and techniques.
