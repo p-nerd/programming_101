@@ -9,7 +9,11 @@
 
 int main()
 {
-    for (int i = 1; i <= 5; i++)
+    int input;
+    printf("Number of lines: ");
+    scanf("%d", &input);
+
+    for (int i = 1; i <= input; i++)
     {
         for (int j = 1; j <= i; j++)
         {
